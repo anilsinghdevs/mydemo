@@ -1,0 +1,3 @@
+[submodule "third-party/fundManage_lalji"]
+	path = third-party/fundManage_lalji
+	url = git@github.com:anilsinghdevs/fundManage_lalji.git
